@@ -1,0 +1,6 @@
+flask_restful
+flask==2.0.1
+pandas
+numpy
+tqdm
+pathlib

@@ -1,0 +1,6 @@
+Open anaconda powershell
+Cd to the folder where the claims_app.py
+conda activate claimsdata
+pip install*
+$env:FLASK_APP="claims_app"
+flask run --host=0.0.0.0
